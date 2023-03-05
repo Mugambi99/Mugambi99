@@ -23,7 +23,7 @@
 
 ----------------
 
-###### Key Projects 
+### Key Projects 
 
 - [Pandas EDA](https://github.com/Mugambi99/Explanatory-Data-Analysis)
 - [Data analysis Projects](https://github.com/Mugambi99/EDA-Projects-)
